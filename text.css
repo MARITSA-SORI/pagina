@@ -1,0 +1,117 @@
+body {
+	font-family: 'Ephesis', cursive;
+	font-size: 30px
+	time, serif;
+	 }
+
+h1 {
+	font-family: "Verdana", cursive;
+	font-size: 30px;
+	color: brown
+}
+
+h3 {
+	font-family: "Verdana", cursive;
+	font-size: 20px;
+	color: purple
+}
+
+.contenedor-listas {
+	background-color: pink;
+}
+
+.contenedor-familia {
+	background-color: paleturquoise;
+}
+
+.contenedor-sobrinos {
+	background-color: magenta;
+}
+
+.contenedor-primos {
+	background-color: gold;
+}
+
+.pasatiempos {
+	background-color: lime;
+}
+
+.deportes {
+	background-color: goldenrod;
+}
+
+.animal {
+	background-color: darkkhaki;
+}
+
+.poema {
+	background-color: cyan;
+}
+
+.estudio {
+	background-color: deepskyblue;
+}
+
+
+
+
+
+.form-container {
+	margin: 0;
+	font-family: arial, sans-serif;
+	height: 70vh;
+	display: flex;
+	justify_content: center;
+	aling-items: center;
+}
+
+.form-container{
+	background-color: #fff;
+	border-radius: 10px;
+	padding: 25px;
+	width: 400px;
+	text-aling: center;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+h2{
+	color: #bd7093;
+}
+
+label{
+	margin: 1px;
+	color: #737373;
+}
+
+input, textarea {
+	padding: 15px 14px;
+	background-color: #F06292;
+	border: 0;
+	font-size: 15px;
+	color: #000000;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+
+button{
+	background-color: #90ee90;
+	color: #5a5555;
+	font-size: 17px;
+	border_radius: 5px;
+	border: 2px solid #32cd32;
+}
+
+button:hover{
+	background-color: #ffb6c1;
+	border: 2px solid #ff69b4;
+}
+
+
+:focus{
+	outline: 1px solid #000000;
+}
+
+
+
+
+
